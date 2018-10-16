@@ -4,4 +4,5 @@
 void foo1()
 {
 	printf("func1.c --> foo1()\n");
+	printf("goodbye func1\n");
 }
